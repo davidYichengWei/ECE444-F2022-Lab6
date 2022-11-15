@@ -1,5 +1,9 @@
 # ECE444-F2022-Lab6
 
+## Unit test function in project
+https://github.com/ECE444-2022Fall/project-1-web-application-design-education-pathways-group-6-lambda/blob/91db74dc28f5c7941adb63a7d25bba4788153f2e/Education_Pathways/tests/test_app.py#L20
+
+
 ## Pros and cons of TDD
 
 ### Pros
